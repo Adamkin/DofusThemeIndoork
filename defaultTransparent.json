@@ -2,11 +2,11 @@
     {
         "author": "Indoork",
         "name": "defaultTransparent",
-        "keyWords": "README",
-        "version": "README",
-        "dofusVersion": "Testrun",
-        "description": "testrun",
-        "url": "https://github.com/Adamkin/DofusThemeIndoork/themes/defaultTransparent.zip",
+        "keyWords": "defaultTransparent, Theme",
+        "version": "2.68.1",
+        "dofusVersion": "2.68",
+        "description": "defaultTransparent: default, but transparent",
+        "url": "https://github.com/Adamkin/DofusThemeIndoork/raw/master/themes/defaultTransparent.zip",
         "creationDate": "16/08/2023",
         "modificationDate": "16/08/2023"    }
 ]
